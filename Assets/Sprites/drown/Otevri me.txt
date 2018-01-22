@@ -1,0 +1,6 @@
+sekvence "Potapi se":
+ Jde o animaci, která se spustí, pokud hráèe dostihne voda, když bude protagonista v bìhu (tudíž dokonèí cyklus bìhu do základní pozice, na kterou navazuje sekvence "Potapi se")
+
+sekvence "Mezifaze":
+ Tj animace, která navazuje na animaci padání (V pøípadì, že hráè spadne do vody ze skoku). Až na tuhle animaci pak navazuje sekvence "Potapi se".
+
